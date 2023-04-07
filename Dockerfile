@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8-jre
 MAINTAINER xuejia.li@dhc.com.cn
 RUN mkdir /app
 WORKDIR /app
